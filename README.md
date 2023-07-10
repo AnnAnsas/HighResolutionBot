@@ -19,6 +19,7 @@ Real-ESRGAN:
 На обучение настолько же хорошей сети у меня не было ни технических ресурсов, ни времени, поэтому я остановилась на Real-ESRGAN
 
 [1]https://github.com/xinntao/ESRGAN
+
 [2]https://github.com/ai-forever/Real-ESRGAN
 
 # 2. Телеграм бот
