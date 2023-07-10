@@ -6,9 +6,13 @@
 # 1. Выбор нейросети для бота
 Изначально я хотела создать полезного и удобного бота для улучшения качества отправляемых ему изображений, потому начала искать соответствующие GAN. Первым мне попался ESRGAN от xinntao[1], но результаты его работы показались мне недостаточно хорошими, потому я выбрала улучшенную версию этой сети от того же создателя - Real-ESRGAN. Вся теория по этим сетям находятся по ссылке[1].
 
-ESRGAN:![image](https://github.com/AnnAnsas/HighResolutionBot/assets/106018036/85a4207a-1b96-4c6d-8960-5ebc29bea0e0)
+ESRGAN:
 
-Real-ESRGAN:![image](https://github.com/AnnAnsas/HighResolutionBot/assets/106018036/b4cce1fa-ea84-4a66-abba-1c749a990097)
+![image](https://github.com/AnnAnsas/HighResolutionBot/assets/106018036/85a4207a-1b96-4c6d-8960-5ebc29bea0e0)
+
+Real-ESRGAN:
+
+![image](https://github.com/AnnAnsas/HighResolutionBot/assets/106018036/b4cce1fa-ea84-4a66-abba-1c749a990097)
 
 При прикручивании именно этой версии возникли непреодолимые трудности, поэтому, порывшись в GitHub, я нашла более удобный репозиторий, созданный ai-forever[2].
 
